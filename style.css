@@ -57,6 +57,9 @@
     clear: both;
   }
 
+  .t2{
+    line-height: 1.8em;
+  }
 
   .profile .r1{
     display: inline-block;
