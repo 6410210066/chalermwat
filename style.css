@@ -63,7 +63,7 @@
   }
 
   .profile .r1{
-    display: inline-block;
+    display:block;
     float: left;
     width: 60%;
     clear: both;
@@ -72,7 +72,7 @@
   .profile .r2{
     width: 35%;
     float: left;
-    display: inline-block;
+    display: block;
   }
  
   
