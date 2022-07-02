@@ -54,8 +54,7 @@
   }
 
   .profile{
-    display: inline-block;
-
+    clear: both;
   }
 
 
