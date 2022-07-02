@@ -66,6 +66,7 @@
     display: inline-block;
     float: left;
     width: 60%;
+    clear: both;
   }
 
   .profile .r2{
